@@ -17,6 +17,7 @@ sugorock（以下「当方」）は、スマートフォン用アプリケーシ
 
 
 [AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja) 
+ 
 [Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 
 ## 2.2 お問い合わせやご意見を頂く際の個人情報の収集
