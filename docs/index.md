@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# 利用規約・プライバシーポリシー
+## 1.はじめに
 
-You can use the [editor on GitHub](https://github.com/sugoroku525/privacy-policy/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+sugorock（以下「当方」）は、スマートフォン用アプリケーション（以下「アプリ」）を開発・運用しています。本アプリのご使用によって、本規約に同意していただいたものとみなします。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2.収集する情報
+アプリのご利用に際して、以下の利用者情報を取得いたします。
+### 2.1 アプリケーションの利用状況の収集
 
-```markdown
-Syntax highlighted code block
+当方が配信するアプリでは、広告配信のためにGoogle AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用する場合がございます。
 
-# Header 1
-## Header 2
-### Header 3
+広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。
 
-- Bulleted
-- List
+取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja) 
+[Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 
-[Link](url) and ![Image](src)
-```
+## 2.2 お問い合わせやご意見を頂く際の個人情報の収集
+### >• 2.2.1 送信元のメールアドレス、 端末を識別する情報 (ユーザーサポートID)
+### • 2.2.2 お問い合わせ内容
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 3. 利用目的
+当方は、2.2 において収集した情報を、お問い合わせに対する返信のために利用いたします。また、2.2 において収集した情報を、本アプリの品質向上のために利用いたします。
 
-### Jekyll Themes
+## 4. 個人情報の管理
+当方は、お客さまの個人情報を正確かつ最新の状態に保ち、個人情報への不正アクセス・紛失・破損・改ざん・漏洩などを防止するため、安全対策を実施し個人情報の厳重な管理を行ないます。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sugoroku525/privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 5. 個人情報の第三者への開示・提供の禁止
+当方は、お客さまよりお預かりした個人情報を適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
+• お客さまの同意がある場合
+• 法令に基づき開示することが必要である場合
 
-### Support or Contact
+## 6. 法令、規範の遵守と見直し
+当方は、保有する個人情報に関して適用される日本の法令、その他規範を遵守するとともに、本ポリシーの内容を適宜見直し、その改善に努めます。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 7. 免責事項
+本アプリがユーザーの特定の目的に適合すること、期待する機能・商品的価値・正確性・有用性を有すること、および不具合が生じないことについて、何ら保証するものではありません。
+当方の都合によりアプリの仕様を変更できます。私たちは、本アプリの提供の終了、変更、または利用不能、本アプリの利用によるデータの消失または機械の故障もしくは損傷、その他本アプリに関してユーザーが被った損害につき、賠償する責任を一切負わないものとします。
+## 8. 著作権・知的財産権等
+著作権その他一切の権利は、当方又は権利を有する第三者に帰属します。
+## 9. 連絡先
+お問い合わせは[こちら](https://docs.google.com/forms/d/e/1FAIpQLSd8twmrbqweUz39JUCmTfI6EYrm376GP828yvonKFqQAppmTA/viewform?usp=sf_link)
